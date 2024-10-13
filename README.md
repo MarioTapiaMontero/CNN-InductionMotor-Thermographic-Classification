@@ -30,7 +30,7 @@ Image Classification, GoogleNet, ShuffleNet, Failure Detection, CNN, Computer Vi
 * ShuffleNet
 
 ## Software 
-* Python (Pytorch)
+* Python (OpenCV, Pytorch)
 
 ## Files  
 * Code:
