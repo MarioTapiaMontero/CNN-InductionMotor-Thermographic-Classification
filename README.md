@@ -34,7 +34,8 @@ Image Classification, GoogleNet, ShuffleNet, Failure Detection, CNN, Computer Vi
 
 ## Files  
 * Code:
-  - `code.ipynb`: Jupyter notebook that run all the project.
+  - `Vision_Project.ipynb`:  Jupyter notebook that runs all the project.
 * Documents:
-  - `Computer_Vision_Project.pdf`:
-  - `VCS_Presentation.pdf`
+  - `Computer_Vision_Project.pdf`: Document that presents the work carried out.
+  - `VCS_Presentation.pdf`: Slides used for presenting this work.
+
