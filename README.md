@@ -1,5 +1,5 @@
-# Induction-Termographic-Classification
-Utilizing deep learning models like GoogleNet to classify termographic images of induction motors, detecting levels of failures efficiently
+# Induction-Thermographic-Classification
+Utilizing deep learning models like GoogleNet and ShuffleNet to classify thermographic images of induction motors, detecting levels of failures efficiently
 
 ---
 ##  Description 
